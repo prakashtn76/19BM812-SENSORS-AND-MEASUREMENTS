@@ -30,14 +30,15 @@ there are no sliding contacts, there is less Friction and less noise.
 4. The output voltage for each 1 mm displacement was added and noted.
 5. The displacement core was brought to initial position and moved in anticlockwise direction.
 6. A gain the output voltage for each 1 mm displacement was noted
-7. A graph is plotted between displacement and output voltage (Eo).
+7. A graph is plotted between displacement and output voltage (Eo)..
 
 # FORMULA USED
 <img width="1088" height="260" alt="image" src="https://github.com/user-attachments/assets/8bd0f52a-1682-4841-a1b0-e4212ac12ffe" />
 
 
 # TABULATION
-<img width="1090" height="690" alt="image" src="https://github.com/user-attachments/assets/b231608e-9b84-4a67-9e79-1011e0497b71" />
+<img width="1452" height="1120" alt="sensor mesasurement ex1" src="https://github.com/user-attachments/assets/b26169e4-6680-4386-9540-4f3c288f0482" />
+
 
 
 
