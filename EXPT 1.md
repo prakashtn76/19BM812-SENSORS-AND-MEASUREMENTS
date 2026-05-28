@@ -37,7 +37,8 @@ there are no sliding contacts, there is less Friction and less noise.
 
 
 # TABULATION
-<img width="1090" height="690" alt="image" src="https://github.com/user-attachments/assets/b231608e-9b84-4a67-9e79-1011e0497b71" />
+<img width="1452" height="1120" alt="sensor mesasurement ex1" src="https://github.com/user-attachments/assets/91ee0d1a-393d-4bd3-833a-3880cc15c843" />
+
 
 
 
